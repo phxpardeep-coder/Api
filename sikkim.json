@@ -1,0 +1,15 @@
+{
+  "matching_urls": [
+    "https://www.dmwin3.com/#/wallet",
+    "https://www.dmwin3.com/#/wallet/Recharge",
+    "https://www.dmwin3.com/#/home/AllLotteryGames/WinGo?id=1",
+    "https://www.dmwin3.com/#/home/AllLotteryGames/5D?id=3",
+    "https://www.dmwin3.com/#/home/AllLotteryGames/5D?id=2",
+    "https://www.dmwin3.com/#/home/AllLotteryGames/WinTrx?id=4"
+  ],
+  "deposit_url": "https://www.dmwin3.com/#/wallet/Recharge",
+  "login_url": "https://www.dmwin3.com/#/login",
+  "register_url": "https://www.dmwin3.com/#/register?invitationCode=256682927711",
+  "telegram_url": "https://t.me/vishuskills",
+  "home_url": "https://www.dmwin3.com/#/"
+}
